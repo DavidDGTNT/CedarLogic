@@ -244,10 +244,12 @@ file(GLOB SRC_FILES
 	"${PROJECT_SOURCE_DIR}/src/logic/*.cpp"
 	"${PROJECT_SOURCE_DIR}/src/gui/command/*.cpp"
 	"${PROJECT_SOURCE_DIR}/src/gui/route/*.cpp"
+	"${PROJECT_SOURCE_DIR}/src/gui/wire/*.cpp"
 	"${PROJECT_SOURCE_DIR}/include/*.h"
 	"${PROJECT_SOURCE_DIR}/include/gui/*.h"
 	"${PROJECT_SOURCE_DIR}/include/gui/render/*.h"
 	"${PROJECT_SOURCE_DIR}/include/gui/route/*.h"
+	"${PROJECT_SOURCE_DIR}/include/gui/wire/*.h"
 	"${PROJECT_SOURCE_DIR}/include/logic/*.h"
 	"${PROJECT_SOURCE_DIR}/include/gui/command/*.h"
 )
